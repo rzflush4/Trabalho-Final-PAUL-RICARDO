@@ -8,7 +8,7 @@
 
 body{
     height: 100vh;
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAe1BMVEUAAAD///+EhITw8PDz8/P5+fm5ubk3Nzfi4uL29vZ4eHg/Pz+zs7OHh4dPT0+BgYEmJibY2NhVVVVISEhsbGyenp4VFRXHx8cwMDBxcXGWlpYtLS0bGxsgICDp6emQkJBeXl7Q0NCpqakQEBBDQ0PAwMDc3NxjY2NZWVlYfHHBAAADHElEQVR4nO3Z15LiOhCAYckBgY0s44jJYQjv/4Rr2cwMLMPu3crn8H9VqICrri51MAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4H+hCfyJZ09fmCDYiG0QjEXm+8HItybGdYBDspdSbsVMypEYSzkVGynLNGw/HmTn6DrAAVE2IXrZHh95e6Q7ewRS7kX7ph6Ntq4DHJLu/pj2HIuRlDNRS3k6S3kWWsqJ6+CGJuyS1V4lba9SI/ra2xxtTZaugxuYqMuN7Vv9VVp0n4O1sDV5KMvcdYBDMpM3XXs/CN++D5WwNWm5jm9I4s9c9e19uesvlriVZzscH6ycBDkU07anj21Wvtv7ObT3adun7N5uWyydBDkIsRATKaMuWV7X3o/2aJO16mvym9L7vX7njSuKhLFdaWO7VH+VynYO2gTGyf02Wkx9WWcuQ3Uuk11771b2u/a+EO0akbU1GfrBpBZJ2S5dYVm5jtatuay79SDuBmB8tYt70R6VTZu5df2xbfPnyHWszm3aldPUdTvupvbUdX0Qi7pu99CyPpWjOrzl65S4jtS9kX16fiUrZ32ugnL9D2Maqot8nHbfksX+c/UaU3+doFutfjfX9deSKk886fTKLh0PP+stzcn/zlTw7vPvzqTLSPhZZrEZbeQd5t8d76srHRbl6DyRD5h/D/bypbB874flZ5NXqWL+PZm/SBX194P4p0z57J8/OoZPqWL+vTT7LVU1++drl4f5d6D+/kh/ZerUuI5l+NLFabafbv86/qrbCy8tvUg0l2ukjClSYyLleVGlc+N5riMboCKKhJc3u+iyi4omMVkU69xLdEp3e7Lysij1PC/z4qYwyaUpiqT96uppttYnO6+Jcq3aq7TWOz03V5MURXFpLtU7/xn2s0rvmugS5V6sGzPXjVba6KXOjDFv/CfrCysl1vN5miqh8krM81Wl1EqolVLKdWj4rzvG6XFeVetj9SGUyEUsVLqkBl/IlPpYfSzjlVpnIhHXY6xU7DooAAAAAPhXfgHTUSS/peXvMAAAAABJRU5ErkJggg== );
+    background-image: url("nike-logo-qi7922wgfatrtjex\ \(1\).webp");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -23,7 +23,7 @@ body{
     border-radius: 12px;
     padding: 25px 35px;
     backdrop-filter: blur(7px);
-    color: #fff;
+    color: #000000;
 }
 
 .wrapper form h1{
@@ -49,12 +49,12 @@ body{
     border: 2px solid rgba(255,255,255, 0.2);
     outline: none;
     border-radius: 50px;
-    color: #fff;
+    color: #000000;
     padding: 20px 45px 20px 20px;
 }
 
 .wrapper form .box input::placeholder{
-    color: #fff;
+    color: #000000;
 }
 .wrapper form .box o{
     position: absolute;
@@ -70,12 +70,12 @@ body{
 }
 
 .wrapper form .check label input{
-    accent-color: #fff;
+    accent-color: #0f0f0f;
     margin-right: 5px;
 }
 
 .wrapper form .check a{
-    color: #fff;
+    color: #000000;
     text-decoration: none;
 }
 .wrapper form .check a :hover{
@@ -84,7 +84,7 @@ body{
 .wrapper form button{
      width: 100%;
      height: 50px;
-     background: #fff;
+     background: #ffffff;
      border-radius: 50px;
      border: 0;
      outline: none;
@@ -100,5 +100,5 @@ body{
 }
 
 .wrapper form .register p a{
-    color: #fff;
+    color: #000000;
 }
